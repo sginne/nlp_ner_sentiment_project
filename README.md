@@ -1,1 +1,11 @@
 # nlp_ner_sentiment_project
+{'epoch': 10.47,
+ 'eval_accuracy': 0.9331972272338809,
+ 'eval_f1': 0.24863793957404656,
+ 'eval_loss': 0.2884698808193207,
+ 'eval_precision': 0.24753451676528598,
+ 'eval_recall': 0.24975124378109453,
+ 'eval_runtime': 1.8496,
+ 'eval_samples_per_second': 840.723,
+ 'eval_steps_per_second': 105.428}
+F1: 0.24863793957404656
